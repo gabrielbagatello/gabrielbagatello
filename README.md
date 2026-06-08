@@ -1,7 +1,7 @@
 ## Olá! Eu sou estudante de ADS 👋
 
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — 3º semestre  
-📍 Campinas, SP
+📍 Capivari, SP
 
 ---
 
